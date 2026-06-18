@@ -10,7 +10,7 @@ while True:
             print("Too high!")
         else:
             print("Congratulations!You guessed it")
+            break
     except ValueError:
         print("Enter a valid number")
-        
-    
+:smile
